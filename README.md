@@ -2,7 +2,6 @@
 
 This is a React-based translation application, built with Vite. It uses the MyMemory API for translations and integrates several advanced features such as dynamic query strings, language detection, and responsive design.
 
-___
 ## Features
 
 ### Core Functionality:
@@ -17,7 +16,6 @@ ___
 - **Copy**: Copy the source or translated text to the clipboard.
 - **Speak**: Play text-to-speech for source or translated text.
 
-___
 ## Tech Stack
 - **Frontend**: React, CSS
 - **State Management**: Zustand
@@ -48,6 +46,5 @@ ___
     
     `pnpm run preview`
 
-___
 ## License
 This project is licensed under the MIT License.
